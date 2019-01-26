@@ -7,6 +7,7 @@ const Wrapper = styled.div`
     height: 500px;
     width: 50%;
     margin: 10px auto;
+    border: 1px solid red; 
 `;
 
 const PostsContainer = props => {
